@@ -26,7 +26,7 @@ SECRET_KEY = '747gcy%nk@!x)25c_8w7vezus+mm_eppmy-u(6+g3v4uj+-3j%'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['165.22.214.187', 'gajadattelectrical.in']
+ALLOWED_HOSTS = ['165.22.214.187', 'onlinejath.com']
 
 
 # Application definition
@@ -164,8 +164,8 @@ OSCAR_ORDER_STATUS_PIPELINE = {
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': 'myproject',
-        'USER': 'ramdas',
+        'NAME': 'myproject1',
+        'USER': 'ramdas1',
         'PASSWORD': 'asagaonkar',
         'HOST': 'localhost',
         'PORT': '',
